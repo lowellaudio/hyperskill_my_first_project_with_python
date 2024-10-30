@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The color of the data
+  - text: The operations that can be performed on it
+  - text: How the data is stored
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47517#comment
+status: Solved
+record: -1
+local_check: false

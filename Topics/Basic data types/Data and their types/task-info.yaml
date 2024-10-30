@@ -1,0 +1,20 @@
+type: matching
+captions:
+  - '"yourName@gmail.com"'
+  - 1999
+  - 99.9
+options:
+  - str
+  - float
+  - int
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47532#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - print(8 / 2)
+  - print(8 // 2)
+  - print(10 // 3)
+  - print(36 / 5)
+options:
+  - 4
+  - 7.2
+  - 3
+  - 4.0
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47591#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 13 Sep 2024 08:20:01 UTC"
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
